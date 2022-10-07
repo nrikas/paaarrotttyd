@@ -1,4 +1,4 @@
-FROM parrotos/core:latest
+FROM parrotsec/core:latest 
 ENV DEBIAN_FRONTEND=noninteractive
 ENV USER=root
 
