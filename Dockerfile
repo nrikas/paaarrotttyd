@@ -1,4 +1,4 @@
-FROM tsl0922/ttyd
+FROM parrotos/core:latest
 ENV DEBIAN_FRONTEND=noninteractive
 ENV USER=root
 
